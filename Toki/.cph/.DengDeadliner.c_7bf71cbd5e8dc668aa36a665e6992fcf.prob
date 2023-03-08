@@ -1,0 +1,1 @@
+{"name":"Local: DengDeadliner","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DengDeadliner.c","tests":[{"id":1668774723667,"input":"245","output":"0\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DengDeadliner.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BajKon","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BajKon.c","tests":[{"id":1669083503688,"input":"10 50 100","output":"M"},{"id":1669083539625,"input":"18 80 180","output":"L"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BajKon.c","group":"local","local":true}

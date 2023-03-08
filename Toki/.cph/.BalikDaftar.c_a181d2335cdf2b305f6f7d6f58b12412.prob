@@ -1,0 +1,1 @@
+{"name":"Local: BalikDaftar","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BalikDaftar.c","tests":[{"id":1668782384674,"input":"17\n8\n1945","output":"1945\n8\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BalikDaftar.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Faktor","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\Faktor.c","tests":[{"id":1668701260181,"input":"24","output":"24\n12\n8\n6\n4\n3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\Faktor.c","group":"local","local":true}

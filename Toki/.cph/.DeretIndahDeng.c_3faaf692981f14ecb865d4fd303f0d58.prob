@@ -1,0 +1,1 @@
+{"name":"Local: DeretIndahDeng","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DeretIndahDeng.c","tests":[{"id":1668950574463,"input":"1 5 1","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DeretIndahDeng.c","group":"local","local":true}

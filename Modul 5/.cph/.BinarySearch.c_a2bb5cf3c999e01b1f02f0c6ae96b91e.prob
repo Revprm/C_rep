@@ -1,0 +1,1 @@
+{"name":"Local: BinarySearch","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Modul 5\\BinarySearch.c","tests":[{"id":1668678189680,"input":"5\n30\n10\n4\n30\n15\n5\n4\n15\n16\n7\n30","output":"2\n4\n-1\n-1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Modul 5\\BinarySearch.c","group":"local","local":true}

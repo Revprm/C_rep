@@ -1,0 +1,1 @@
+{"name":"Local: PolaIII","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\PolaIII.c","tests":[{"id":1668752632029,"input":"5","output":"0\n12\n345\n6789\n01234"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\PolaIII.c","group":"local","local":true}

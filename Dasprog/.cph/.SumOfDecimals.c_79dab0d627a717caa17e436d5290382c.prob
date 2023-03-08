@@ -1,0 +1,1 @@
+{"name":"Local: SumOfDecimals","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\SumOfDecimals.c","tests":[{"id":1668677698467,"input":"2819.21","output":"23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\SumOfDecimals.c","group":"local","local":true}

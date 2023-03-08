@@ -1,0 +1,1 @@
+{"name":"Local: PRIME1","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\SPOJ\\PRIME1.c","tests":[{"id":1669196030824,"input":"2\n1 10\n3 5","output":"2\n3\n5\n7\n\n3\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\SPOJ\\PRIME1.c","group":"local","local":true}

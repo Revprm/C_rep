@@ -1,0 +1,1 @@
+{"name":"Local: BilaBalik","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BilaBalik.c","tests":[{"id":1669084660117,"input":"5\n1330\n7525\n4025\n5\n12624","output":"331\n5257\n5204\n5\n42621"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\BilaBalik.c","group":"local","local":true}

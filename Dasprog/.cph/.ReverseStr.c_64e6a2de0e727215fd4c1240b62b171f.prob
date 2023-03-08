@@ -1,0 +1,1 @@
+{"name":"Local: ReverseStr","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\ReverseStr.c","tests":[{"id":1667820519393,"input":"hola","output":"aloh"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\ReverseStr.c","group":"local","local":true}

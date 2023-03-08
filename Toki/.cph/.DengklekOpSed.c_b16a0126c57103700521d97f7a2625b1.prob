@@ -1,0 +1,1 @@
+{"name":"Local: DengklekOpSed","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DengklekOpSed.c","tests":[{"id":1668771274547,"input":"6 4","output":"10\n2\n24\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\DengklekOpSed.c","group":"local","local":true}

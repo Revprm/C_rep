@@ -1,0 +1,1 @@
+{"name":"Local: PasarRakyat","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\PasarRakyat.c","tests":[{"id":1668772280952,"input":"3\n2\n4\n5","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\PasarRakyat.c","group":"local","local":true}

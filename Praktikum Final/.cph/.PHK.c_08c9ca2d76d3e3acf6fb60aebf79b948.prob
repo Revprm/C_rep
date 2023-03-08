@@ -1,0 +1,1 @@
+{"name":"Local: PHK","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\Praktikum Final\\PHK.c","tests":[{"id":1669906255409,"input":"10\n1\n2\n5","output":"LIHAT 5 5\nLIHAT 3 7\nLIHAT 3 8\nKOORDINAT 3 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\Praktikum Final\\PHK.c","group":"local","local":true}

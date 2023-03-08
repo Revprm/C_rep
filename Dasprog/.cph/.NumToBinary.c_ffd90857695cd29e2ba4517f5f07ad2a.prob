@@ -1,0 +1,1 @@
+{"name":"Local: NumToBinary","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\NumToBinary.c","tests":[{"id":1668699121838,"input":"73","output":"1001001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\NumToBinary.c","group":"local","local":true}

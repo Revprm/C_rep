@@ -1,0 +1,1 @@
+{"name":"Local: JarakManhattan","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\JarakManhattan.c","tests":[{"id":1668751222418,"input":"-1 -1 1 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Toki\\JarakManhattan.c","group":"local","local":true}

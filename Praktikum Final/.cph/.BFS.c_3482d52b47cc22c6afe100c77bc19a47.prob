@@ -1,0 +1,1 @@
+{"name":"Local: BFS","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\Praktikum Final\\BFS.c","tests":[{"id":1669892326179,"input":"3 10\n0 20\n3 37\n9 5","output":"1\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C\\Praktikum Final\\BFS.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Nomor3","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Modul 4\\Nomor3.c","tests":[{"id":1667823959416,"input":"5\n7 8 9 1 0","output":"0 1 9 8 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Modul 4\\Nomor3.c","group":"local","local":true}

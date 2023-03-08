@@ -1,0 +1,1 @@
+{"name":"Local: FloorCeiling","url":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\FloorCeiling.c","tests":[{"id":1668699755607,"input":"-256.652","output":"-257 -256"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Asus\\Documents\\Vscode\\C\\Dasprog\\FloorCeiling.c","group":"local","local":true}
